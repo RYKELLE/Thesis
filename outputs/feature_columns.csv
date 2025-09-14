@@ -1,0 +1,24 @@
+feature
+Sleep_Hours
+Work_Hours
+Physical_Activity_Hours
+Social_Media_Usage
+Diet_Quality
+Smoking_Habit
+Alcohol_Consumption
+Age
+Gender_Male
+Gender_Non-Binary
+Gender_Prefer Not To Say
+Occupation_Engineering
+Occupation_Finance
+Occupation_Healthcare
+Occupation_It
+Occupation_Other
+Occupation_Sales
+Country_Canada
+Country_Germany
+Country_India
+Country_Other
+Country_Uk
+Country_Usa
